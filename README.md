@@ -1,0 +1,3 @@
+# Progetto di esempio per Inferflow
+
+Dopo aver clonato il [repository di Inferflow](https://github.com/inferflow/inferflow/) ed aver compilato i sorgenti nelle cartelle build\vs2022_projects (o build\vs_projects, a seconda che si usi Visual Studio 2022 o Visual Studio 2022) in base al proprio hardware (GPU o CPU), avviare il server Inferflow presente nella cartella {Inferflow_Root}}\bin\x64_(Debug|Release)\inferflow_service(_cpu).exe (a seconda se si usa la versione di debug o di release e se si sta usando una GPU o una CPU).
